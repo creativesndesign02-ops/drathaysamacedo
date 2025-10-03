@@ -123,7 +123,7 @@ export default function Home() {
               Meu cuidado com você vai além dos sintomas.
             </p>
             <p className="text-xs sm:text-sm md:text-base lg:text-lg text-white/90 max-w-4xl">
-              Sou médica especialista em medicina integrativa, com foco em
+              Sou médica especialista em clínica médica e medicina integrativa com foco em
               emagrecimento saudável e tratamento de dores crônicas. Meu
               objetivo é olhar para cada pessoa de forma única, investigando as
               causas reais dos problemas de saúde. Acredito que o corpo, mente e
