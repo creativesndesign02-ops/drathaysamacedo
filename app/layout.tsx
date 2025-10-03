@@ -8,7 +8,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Dra. Thaysa Macedo | Clínica Médica",
   description:
-    "Medicina Integrativa, Emagrecimento Saudável e Tratamento de Dores Crônicas",
+    "Medicina Integrativa, Emagrecimento Saudável e Tratamento de Dores Crônicas.",
   generator: "v0.app",
 };
 
